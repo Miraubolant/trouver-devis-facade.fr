@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * ============================================
  * ANNUAIRE-FACADE.FR - CONFIGURATION
@@ -8,7 +8,7 @@
 define('SITE_NAME', 'trouver-devis-facade.fr');
 define('SITE_DOMAIN', 'trouver-devis-facade.fr');
 define('SITE_URL', 'https://trouver-devis-facade.fr');
-define('SITE_EMAIL', 'contact@trouver-devis-facade.fr');
+define('SITE_EMAIL', 'admin@miraubolant.com');
 define('SITE_TAGLINE', "Façade & Ravalement Partout en France");
 define('SITE_DESCRIPTION', "Trouvez un façadier pour le ravalement, le nettoyage ou l\'isolation par l\'extérieur de vos murs.");
 
